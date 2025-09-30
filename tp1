@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Site de Citrons</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav>
+      <img src="images/logo.svg" alt="Logo citron" class="logo">
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">Recettes</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>Le Citron, fruit de la fraîcheur</h1>
+      <p>Découvrez ses bienfaits, ses recettes et son histoire.</p>
+      <a href="#" class="btn">En savoir plus</a>
+    </div>
+  </header>
+
+  <!-- Section présentation -->
+  <section class="presentation">
+    <div class="text">
+      <h2>Pourquoi le citron ?</h2>
+      <p>
+        Le citron est un fruit riche en vitamine C, idéal pour vos boissons,
+        pâtisseries et plats. Rafraîchissant, il apporte une touche unique à
+        toutes vos recettes.
+      </p>
+    </div>
+    <img src="images/citron.jpg" alt="Photo de citrons">
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 - Site de Citrons 🍋 | Réalisé avec  et GitHub Pages</p>
+  </footer>
+</body>
+</html>
 
